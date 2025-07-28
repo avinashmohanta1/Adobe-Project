@@ -1,0 +1,606 @@
+{
+  "metadata": {
+    "input_documents": [
+      "annual_report.pdf"
+    ],
+    "persona": "Investment Analyst",
+    "job_to_be_done": "Analyze revenue trends, R&D investments, and market positioning strategies",
+    "processing_timestamp": "2025-07-26 21:09:52.408359"
+  },
+  "extracted_sections": [
+    {
+      "document": "annual_report.pdf",
+      "page_number": 3,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 3,
+      "section_title": "The example shown on the following pages is not a mandatory format.  It can be modified to \nsuit individual State's needs,  For example, some States, based on their organizational structure, \nmay find it necessary to add additional sections or combine sections to fit their management \narrangement.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 3,
+      "section_title": "Reviewers should have discussions with management prior to report preparation to determine \nthe expected report content and format.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 3,
+      "section_title": "Each Regional Office may also need and request certain information.  The National Office will \nprovide instructions in a separate directive concerning data requirements for the Department of \nLabor. Data will be used in the Tax Performance System portion of an overall system of UI \nperformance measurement known as UI Performs.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "THIS EXAMPLE SUGGESTS STYLE AND LANGUAGE.  THE EXAMPLES OF COMPUTED MEASURES \nDO NOT REPRESENT DESIRED LEVELS OF ACHIEVEMENT.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "Show purpose and date review \nwas completed",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "The section detailing each tax \nfunction should be a document \nthat can \"stand alone\"",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "This Report consists of the findings and recommendations resulting from",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "the TPS review of the UI Revenue (Tax) Operations completed April 30,",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "information regarding the review and a summary of the major findings,",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "conclusions, and recommendations.  Also included with this section are",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "the Computed Measures indicators for the past three years, and  a",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 5,
+      "section_title": "authorizing the use of blanket N/As and Compensating Controls.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 6,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 6,
+      "section_title": "were reviewed and the \nmethodologies used",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 6,
+      "section_title": "Specific indicators for Status Determinations, Report Delinquency, \nCollections and Field Audit were compiled to assess timeliness \nand completeness.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 6,
+      "section_title": "Systems Reviews:  The internal controls and quality assurance \nsystems of each tax function were examined.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 6,
+      "section_title": "Acceptance Samples:  Small samples were examined from each \ntax function to confirm thatcontrols and quality assurance systems \nwere working effectively to produce accurate outputs.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 6,
+      "section_title": "Information was gathered on the State's methods and procedures \nto: facilitate and promote employer identification and registration; \nresolve delinquencies; promote voluntary payment compliance; \nand manage and control Accounts Receivable.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "Identify strengths and \nweaknesses",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "FINDINGS AND CONCLUSIONS",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "Reasonable assurance of quality was confirmed for Status \nDeterminations and Status Posting functions. The Acceptance \nSamples for New, Successor, and Inactivation Determinations all \npassed the review which validated the effectiveness of the internal \ncontrols. The Systems Review, however, did identify a potential \nrisk in the Status successor area.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "The Computed Measures indicated that both New and Successor \nStatus Determinations were completed in a timely manner. The \npercentages for New Status determinations were 81.2% made within \n90 days and 99.3% in 180 days. The percentages for Successor \nStatus determinations were 89.3% made within 90 days and 99.7% \nin 180 days.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "Reasonable assurance of quality was confirmed for the Cashiering \nfunction. The Systems Review verified the existence of the \nnecessary internal controls, and no risks were identified. The \nAcceptance Sample cases all passed, and the three verification tests \nalso passed, which validated the effectiveness of the internal \ncontrols.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 7,
+      "section_title": "Reasonable assurance of quality was confirmed in this function. \nThe Program Review findings indicated that all internal controls \nwere present and operating effectively. The absence of risks in the \nSystems Review was consistent with no errors found in the \nAcceptance Sample cases.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 8,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 8,
+      "section_title": "Examine and discuss trend \nindicated by Computed \nMeasures",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 8,
+      "section_title": "The Computed Measures indicated that the State is doing very well \nin securing and resolving report delinquencies. The State had \n91.7% of the contribution reports filed timely; 94.1% of reports \nwere secured by the end of the following quarter; and 99.1% of \nreports were secured or resolved within 180 days.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 8,
+      "section_title": "In the Collections function, the Systems Review findings indicated \nthat all internal controls were present and the Acceptance Sample \ncases verified that the collection procedures were being adhered to; \nhowever, the findings from the Computed Measures indicated that \nthe State was not effective in managing accounts receivable.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 8,
+      "section_title": "The Computed Measures imply that the State is experiencing \nproblems in collecting past due taxes. The percent of contributory \nemployers making timely payments (Indicator 1) was 91.1%, the \nturnover of receivables (Indicator 2) was 1.3%, the percent declared \nuncollectible (Indicator 3) was 0.6%, and the percent of unpaid \ncontributions/reimbursements due (Indicator 4) was 7.4%. These \npercentages indicate that the SESA may not be collecting tax dollars \npast due in a timely manner, and is not currently reducing the \noverall level of accounts receivable which has been static for the \npast three years.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 9,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 9,
+      "section_title": "If an inconsistency exists \nbetween Systems Review and \nSampling, explain it",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 9,
+      "section_title": "Reasonable assurance of quality was not confirmed for the Field \nAudit function. The Systems Review identified a risk in the \nrecording of transactions and events. This lack of documentation \nhas been addressed since the TPS Review, and refresher training for \nall field auditors is planned for the near future. Due to the actions \nbeing taken to correct this weakness, a marked improvement is \nanticipated by the time the next TPS review takes place.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 9,
+      "section_title": "The results of the three computed measures indicated overall, that \nthe State has managed the field audit program well for the review \nyear. The percent of change in total wages audited was 14.3%, the \naudit penetration rate of 2.8% exceeded the DOL penetration level \nrequirements, and the percent of total wages audited was 4.0%",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 9,
+      "section_title": "Reasonable assurance of quality in the Account Maintenance \nfunction was confirmed for all areas except in Employer \nDebits/Billings. The Systems Reviews conducted for Contribution \nReport Processing, Employer Credits/Refunds, Benefit Charging, \nand Employer Tax Rates indicated that all necessary controls were \npresent; and the Acceptance Samples for these areas validated the \neffectiveness of those controls.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 9,
+      "section_title": "The Systems Review conducted for Employer Debits/Billings also \nrevealed no risks, and indicated that all internal controls were \npresent; however, the Acceptance Samples cases identified errors in \nbilling employers properly. The contributing factors were \nsubsequently identified, and actions have been taken to resolve this \nproblem.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 10,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 10,
+      "section_title": "Identify any systemic problem \nareas and note actions under \nconsideration",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 10,
+      "section_title": "In conducting the Systems Reviews for the various tax functions, a \nlack of written procedures was found to exist in several functions. \nThe Tax Unit staff has been advised of these findings, and they are \ntaking steps to work with the Technical Support unit to write \nprocedures for these functions as time and money permit.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 10,
+      "section_title": "It is recommended that the Collections Unit implement additional \nprocedures and/or tools to more effectively manage accounts \nreceivable. E. g., immediate lien filing for chronic employers and \nautomated lien filing for accounts over 60 days old.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 11,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 11,
+      "section_title": "Global/Systemic and Miscellaneous",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 11,
+      "section_title": "The Tax staff should take steps to begin the process of writing \nprocedures for each unit where a risk was identified in the area of \nrecording information and instructions.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 11,
+      "section_title": "Outside the scope of the TPS Review in Cashiering, a non-\nsufficient-funds check was discovered on a claims overpayment that \nhad been charged back to the Benefit Payment Account, but had not \nbeen added back to the amount of the claimant's overpayment. The \nBenefit Payment Control Unit was notified and the procedures were \namended to prevent future problems of this type.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 12,
+      "section_title": "Accuracy of Output \nand \nEffectiveness of Controls?",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 12,
+      "section_title": "Acceptance Samples\n Y = Two or fewer sample cases failed, confirming accuracy of outputs and effectiveness of controls \nN = Three or more sample cases were not accurate and did not validate effectiveness of controls",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 13,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 13,
+      "section_title": "Attach graphics of Computed \nComputed Measures calculations and \nMeasures \nlayouts",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 14,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 14,
+      "section_title": "For each tax function, the \nreport should be complete - it \nshould be able to stand alone",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 14,
+      "section_title": "Findings from Computed Measures indicated that both New \nand Successor Status Determinations were completed in a \ntimely manner and have continued to improve. Reasonable \nAssurance of accuracy was found in all categories of Status \nDetermination and Posting – Newly established accounts, \nSuccessors and Inactivations/Terminations.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 15,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 15,
+      "section_title": "Attempt to identify and \nevaluate any trends",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 15,
+      "section_title": "The percent of Status Determinations completed for both New and \nSuccessor employers indicated that the State is doing very well. \nDuring the past two years, emphasis has been placed on the timely \ncompletion of Successor Determinations and it is evident that there \nhas been a positive effect on performance.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 16,
+      "section_title": "[Translated from de] ET HANDBOOK NO. 407 \nAPPENDIX D",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 16,
+      "section_title": "Reasonable Assurance of accuracy was confirmed in all three \nAcceptance Samples. The Status New Determination and Status \nInactivation/Termination Acceptance Samples passed the review \nwith no failing cases.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 16,
+      "section_title": "Although all categories of Status Acceptance Samples passed, some \nweaknesses in the Successor function were identified in the Systems \nReview. These weaknesses indicate a need for written procedures \nand instructions to be updated, a need for improvement in documen­\ntation of investigative procedures and a more systematic review of \ncompleted Successor Determination work.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 16,
+      "section_title": "The Successor Determination Acceptance Sample passed 58 of the 60 \ncases. (There is \"reasonable assurance of accuracy\" if two or fewer \nsamples fail sampling review.) The two failing cases contained no \nevidence or documentation that fact-finding investigations had been \nconducted. The SESA procedures require a thorough investigation \nbefore making a Successor Determination, and such fact-finding is \nrequired to be documented. In connection with this lack of documen­\ntation of fact-finding, Systems Review risks were identified in the \nfollowing categories:",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 16,
+      "section_title": "!  Recording of Transaction and Events - Documentation is not being \nmaintained to support that fact-finding procedures are being \nfollowed.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 17,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 17,
+      "section_title": "Explain any inconsistency \nbetween Systems Review and \nAcceptance Sample findings",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 17,
+      "section_title": "It is suggested that recom­\nmendation are developed \nwith input from State tax \nstaff and Regional staff",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 17,
+      "section_title": "Improvements are recommended in all the areas where risks \nwere identified because inaccurate Successor Determinations \ncan result in lost revenue to the SESA's trust fund.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 17,
+      "section_title": "!  Describe the proper fact-finding procedures required for making \nsuccessor determinations, and include the level of documentation \nrequired to substantiate that fact-finding was conducted.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 18,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 18,
+      "section_title": "Take into account both the \nComputed Measures and \nProgram Review findings.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 18,
+      "section_title": "In the Collections function the Systems Review indicated that all \ncontrols were present, and the Acceptance Sample cases verified \nthat the State's procedures for collection activities were being \nfollowed. \nState may be experiencing some problems in managing the \nAccounts Receivable.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 18,
+      "section_title": "Indicator 2. \nand declared uncollectible compared to tax due) \nfor the past three years was:",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 19,
+      "section_title": "ET HANDBOOK NO. 407 \nAPPENDIX D",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 19,
+      "section_title": "These measures indicated that voluntary payment compliance, the \nturnover ratio, and the amounts declared uncollectible have remained \nconstant; however, the amount of unpaid contributions has continued \nto increase. The collection tools currently utilized by the State in col­\nlecting past due money should be examined for effectiveness.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 19,
+      "section_title": "All internal controls in the Collections function were found to be in \nplace, and the Acceptance Sample cases validated that the procedures \nwere being followed. Thus reasonable assurance that all State collec­ \ntion procedures were being followed was confirmed, however, the \nComputed Measures indicated that accounts receivable were not being \nreduced in a timely and efficient manner.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 20,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 20,
+      "section_title": "!  Continue evaluation of the tools and procedures of States X, Y \nand Z (whose Computed Measures data indicate a more efficient \nand/or effective management of their accounts receivable).",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 20,
+      "section_title": "!  Implement additional collection procedures and/or tools where \nwarranted, and where such implementation is feasible.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 20,
+      "section_title": "1.  Develop criteria to identify \"chronic\" employers and require im­\nmediate lien filing and involuntary collection actions for these \nemployers.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 21,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 21,
+      "section_title": "Reasonable assurance of quality could not be confirmed in the Field \nAudit program as five of the Acceptance Sample cases failed. The \nComputed Measures, however, indicated that the State did exceed \nthe DOL audit penetration level requirements and performed well in \ntotal wages audited and in percent of change in total wages audited.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 22,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 22,
+      "section_title": "The percent of change found in audits (Indicator #1) for the last three \nyears has shown a significant increase. This is attributable to a more \nin-depth search for unreported and misclassified wages, and the target­\ning of employers for audit using the State's modified IRS 1099 informa­\ntion exchange program.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 22,
+      "section_title": "The third indicator, percent of total wages audited, has increased \nduring the past 3 years because emphasis is no longer being placed on \nauditing small employers, and due to the ESM's requirement that one \npercent of all audits must be large employers.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 22,
+      "section_title": "Reasonable Assurance of quality could not be confirmed in the Field \nAudit function. The Systems Review revealed that field auditors have \nnot received any form of refresher training. Such training is needed to \nassure that field auditors are skilled in conducting tests of employer \npayroll systems, examining the proper employer records, drawing the \nproper conclusions in their search for misclassified workers, and in \nproviding adequate documentation in their audits.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 22,
+      "section_title": "!  Recording of Transactions and Events - Adequate documentation is \nnot being provided by the field auditors.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 22,
+      "section_title": "Cite specifically why each case \ncases failed due to inadequate documentation regarding a search for \nfailed. \nmisclassified employees and hidden wages.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 23,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 23,
+      "section_title": "Even though five of the Acceptance Sample cases failed, the Field \nAudit Program showed vast improvement over last year's review \nwhen 38 out of 60 cases failed. This improvement is due primarily \nto the revisions to the Field Audit Manual, update of the Field Audit \nforms, and a cursory review of all field audits.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 23,
+      "section_title": "!  Ensure that field auditors provide supporting documentation \nfor tests of employer payrolls and when searching for mis­\nclassified workers.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 23,
+      "section_title": "!  Institute a review system whereby all audits are equally subject \nto review and also review a greater number of those audits \ncompleted by auditors who have not yet exceeded a predeter­\nmined experience level or whose error rate exceeds a predeter­\nmined level.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 24,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 24,
+      "section_title": "Reasonable assurance of quality could not be confirmed in the \nAccount Maintenance function for processing employer debits \nand/or billings.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 24,
+      "section_title": "The Systems Review for Employer Debits/Billings was completed \nwithout identifying any risks; however, of the 60 Acceptance Samples \ncases, three were found unacceptable which caused the entire sample \nto fail the review. Investigation showed this inconsistency directly \nrelated to: 1) the interpretation of the written procedures for pre-\nparing reports for scan posting to the computer; and 2) the program­\nming of the computer system.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 24,
+      "section_title": "Both factors center around the second line in the \"for Dept Use Only\" \nbox on the report forms. This line contains four blocks. Procedures \nrequire staff to darken one of these blocks, depending on what category \nthe report falls into. Review of the actual report forms showed the \ncorrect block had been identified, but only partially darkened, and \nwith a light blue pencil mark.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 24,
+      "section_title": "These employers should have been issued a billing that included the \n10% late payment penalty and shown the liability as immediately \ncollectable. However, in all 3 cases, the computer had treated them as \n\"signed with full payment\" reports. Under this category, the computer \nissued a billing which allowed an additional 30 days to pay the liability \nwithout penalty. This type billing prevents the Department from \npursuing involuntary collection for 35 days.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 25,
+      "section_title": "ET HANDBOOK NO. 407 \nTAX PERFORMANCE SYSTEM",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 25,
+      "section_title": "The procedures were explicit about which block to mark for each \ncategory and these procedures had been reviewed and approved \nby ADP staff as current, accurate and complete.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 25,
+      "section_title": "The above factors were compounded by the programming which did \nnot allow for the computer not being able to \"see\" a mark on the \nblock line. When this happened, the computer would treat the unpaid \nreport as an error in computation report and issue the billing previously \ndescribed.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 25,
+      "section_title": "!  Instruct first level supervisors to include a cursory review of the \nsize and darkness of the marks in this line on the report when \nreviewing staff's work for completeness and accuracy.",
+      "importance_rank": 1
+    },
+    {
+      "document": "annual_report.pdf",
+      "page_number": 25,
+      "section_title": "!  Clarify the written procedures to make it clear that the block \nmust be completely darkened and specify use of the correct pencil.",
+      "importance_rank": 1
+    }
+  ]
+}
